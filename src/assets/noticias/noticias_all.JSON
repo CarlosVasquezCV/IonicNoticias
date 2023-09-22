@@ -1,0 +1,85 @@
+[
+    {
+        "noticias": {
+            "name": "All",
+            "date": "2023-07-30",
+            "show": true,
+            "categorys": [
+                {
+                    "name": "Formación",
+                    "value": "formacion"
+                },
+                {
+                    "name": "Cordinación",
+                    "value": "cordinacion"   
+                },
+                {
+                    "name": "Novedades",
+                    "value": "novedades"
+                },
+                {
+                    "name": "Otros",
+                    "value": "otros"
+                }
+            ]
+
+        },
+        "detailNoticias": [
+            {
+                "title": "Carlos Antonio Vélez lanza crítica a la Selección femenina: 'Sigue la victimización'",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "En medio de la euforia por la clasificación a cuartos, el periodista deportivo Carlos Antonio Vélez le hizo hizo una crítica al equipo y dejó unas frases que ya generan polémica en las redes sociales. ",
+                "text_long": "",
+                "url_imag": "https://www.eltiempo.com/files/image_950_534/uploads/2023/08/10/64d4c6d407950.jpeg",
+                "font_noticia":"../../noticias1"
+            },
+            {
+                "title": "El avance ruso obliga a evacuar 37 localidades ucranias en Járkov",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Dos muertos y siete heridos en un ataque ruso contra Zaporiyia | Rusia derriba 11 drones ucranios cerca de Crimea y 2 dirigidos a Moscú | Polonia enviará 10.000 soldados a la frontera con Bielorrusia para respaldar a la guardia fronteriza",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://imagenes.elpais.com/resizer/JahbCf1PTLgtwEL7LSr26oBDcoY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/A77CAQQDGNFFDD7MREA4KKOU64.JPG",
+                "font_noticia":"https://elpais.com/internacional/2023-08-10/guerra-ucrania-rusia-ultimas-noticias-en-directo.html"
+            },
+            {
+                "title": "Noticia 2",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 3",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 4",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            },
+            {
+                "title": "Noticia 5",
+                "date": "2023-10-05",
+                "show": true,
+                "text_small": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impreso",
+                "text_long": "Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas 'Letraset', las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.",
+                "url_imag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKXu_YTB7ZDKtNoodW0f3XrXmPvzoonJd44g&usqp=CAU",
+                "font_noticia":"https://pt.slideshare.net/DarioZea/escudo-y-logotipo-sena-42241637"
+            }
+        ]             
+
+    }
+]

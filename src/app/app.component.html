@@ -1,0 +1,64 @@
+<ion-app>
+ 
+
+  <ion-menu contentId="main-content">
+    <ion-header>
+      <ion-toolbar>
+        <ion-title>Menu Content</ion-title>
+      </ion-toolbar>
+    </ion-header>
+    <ion-content class="ion-padding">
+
+      <ion-list lines="inset">
+
+        <ion-item [routerLink]="['/dashboard']">
+          <ion-button fill="clear" color="success">
+          <ion-icon name="home" size="large"></ion-icon>
+        </ion-button>
+          <ion-button fill="clear" color="success">Inicio</ion-button>
+        </ion-item>
+
+        <ion-item [routerLink]="['/page-perfil']">
+          <ion-button fill="clear" color="success">
+          <ion-icon name="person" size="large"></ion-icon>
+        </ion-button>
+          <ion-button fill="clear" color="success">Perfil</ion-button>
+        </ion-item>
+
+        <ion-item [routerLink]="['/page-contactenos']">
+          <ion-button fill="clear">
+          <ion-icon name="call" size="large"></ion-icon>
+        </ion-button>
+          <ion-button fill="clear">Contactenos</ion-button>
+        </ion-item>
+
+        <ion-item>
+          <ion-button fill="clear">
+          <ion-icon name="exit" size="large"></ion-icon>
+        </ion-button>
+          <ion-button fill="clear">Salir</ion-button>
+        </ion-item>
+
+
+
+        
+      </ion-list>
+    </ion-content>
+  </ion-menu>
+  <div class="ion-page" id="main-content">
+    <ion-header>
+      <ion-toolbar>
+        <ion-buttons>
+          <ion-menu-button slot="start"></ion-menu-button>
+          <ion-title id="barra-sena">SENA</ion-title>
+        </ion-buttons>
+        
+      </ion-toolbar>
+    </ion-header>
+
+    <ion-router-outlet></ion-router-outlet>
+    
+  </div>
+
+</ion-app>
+
